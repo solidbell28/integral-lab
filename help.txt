@@ -1,0 +1,6 @@
+All available command line keys:
+-h or --help: prints all available command line keys
+-r or -root: prints points of intersection of curves
+-i or --iterations: prints number of itearations needed for finding intersection points
+-R or --test-root: allows user to test the 'root' function. Parameter F1:F2:A:B:E:R defines numbers of used functions (F1, F2), parameters 'a', 'b', 'eps1' (A, B, E) and the right answer (R). Function prints the calculated result, absolute and relative error
+-I or --test-integral: allows user to test the 'integral' function. Parameter F:A:B:E:R defines the number of used function (F), parameters 'a', 'b', 'eps2' (A, B, E) and the right answer (R). Function prints the calculated result, absolute and relative error
