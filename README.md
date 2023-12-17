@@ -13,4 +13,5 @@ Calculate the area of a flat figure bounded by three curves with a given accurac
 3. **The method of approximate solution of equations:** the chord (secant) method.
 4. **Quadrature formulas:** rectangle formula.
 
+## Report
 Report can be found in `report.pdf` file.
